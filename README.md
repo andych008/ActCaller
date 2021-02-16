@@ -13,7 +13,7 @@ Activity#startActivityForResult()+onActivityResult()转变为Callback形式
         }
     }
 
-    implementation 'com.github.andych008.ActCaller:ActCaller:1.0'
+    implementation 'com.github.andych008:ActCaller:1.1'
     ```
 
 1. 以从相册选取图片为例
